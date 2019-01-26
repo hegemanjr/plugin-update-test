@@ -2,8 +2,8 @@
 /*
 Plugin Name: Plugin Update Checker
 Plugin URI: https://hegeman.me
-Description: Replace default WP Multi Network admin bar menu with one organized by network
-Version: 0.1
+Description: Plugin Update Checker
+Version: 0.2
 Author: Jeff Hegeman
 Author URI: https://hegeman.me
 Text Domain: plugin-update-checker
